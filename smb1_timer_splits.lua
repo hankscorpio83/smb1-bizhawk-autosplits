@@ -1,4 +1,4 @@
---this script was written by hankscorpio and is based off of hubcapp's script which is based off of i_o_l's timer script
+--this script was written by hankscorpio83 and is based off of hubcapp's script which is based off of i_o_l's timer script
 --increased functionality is thanks to memory addresses found at http://datacrystal.romhacking.net/wiki/Super_Mario_Bros.:RAM_map
 
 --"personalBests" are stored as frames per level, separated by commas in the table above.
